@@ -8,11 +8,6 @@ const list = [
   "https://placehold.co/375x200?text=4",
 ];
 
-/**
- * 说明：
- * 编译为 H5，开启 circular 后，
- */
-
 export default function Index() {
   const onChange = (e) => {
     const { current, source } = e.detail;

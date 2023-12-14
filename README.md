@@ -22,6 +22,42 @@ PS：微信小程序端正常。
 ## 其他
 
 ```shell
+$ npx taro info
+👽 Taro v3.6.20
+
+
+  Taro CLI 3.6.20 environment info:
+    System:
+      OS: macOS 14.2
+      Shell: 5.9 - /bin/zsh
+    Binaries:
+      Node: 18.16.0 - ~/.nvm/versions/node/v18.16.0/bin/node
+      Yarn: 1.22.19 - ~/.nvm/versions/node/v18.16.0/bin/yarn
+      npm: 9.5.1 - ~/.nvm/versions/node/v18.16.0/bin/npm
+    npmPackages:
+      @tarojs/cli: 3.6.20 => 3.6.20
+      @tarojs/components: 3.6.20 => 3.6.20
+      @tarojs/helper: 3.6.20 => 3.6.20
+      @tarojs/plugin-framework-react: 3.6.20 => 3.6.20
+      @tarojs/plugin-platform-alipay: 3.6.20 => 3.6.20
+      @tarojs/plugin-platform-h5: 3.6.20 => 3.6.20
+      @tarojs/plugin-platform-jd: 3.6.20 => 3.6.20
+      @tarojs/plugin-platform-qq: 3.6.20 => 3.6.20
+      @tarojs/plugin-platform-swan: 3.6.20 => 3.6.20
+      @tarojs/plugin-platform-tt: 3.6.20 => 3.6.20
+      @tarojs/plugin-platform-weapp: 3.6.20 => 3.6.20
+      @tarojs/react: 3.6.20 => 3.6.20
+      @tarojs/runtime: 3.6.20 => 3.6.20
+      @tarojs/shared: 3.6.20 => 3.6.20
+      @tarojs/taro: 3.6.20 => 3.6.20
+      @tarojs/taro-loader: 3.6.20 => 3.6.20
+      @tarojs/webpack5-runner: 3.6.20 => 3.6.20
+      babel-preset-taro: 3.6.20 => 3.6.20
+      eslint-config-taro: 3.6.20 => 3.6.20
+      react: ^18.0.0 => 18.2.0
+```
+
+```shell
 $ npx taro doctor
 👽 Taro v3.6.20
 

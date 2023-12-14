@@ -25,7 +25,7 @@ export default function Index() {
         className="swiper"
         interval={1000}
         circular={true}
-        autoplay={false}
+        autoplay={true}
         onChange={onChange}
       >
         {list.map((item, index) => {
